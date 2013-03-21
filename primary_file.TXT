@@ -5,5 +5,9 @@ It comes before all other files.
 =======
 It comes before all other files.
 
+<<<<<<< HEAD
+change 2
+>>>>>>> parent of 8a3ecee... primary file added change 3
+=======
 change 2
 >>>>>>> parent of 8a3ecee... primary file added change 3
