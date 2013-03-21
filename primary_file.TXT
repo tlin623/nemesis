@@ -1,13 +1,1 @@
-this is my first file, this is the first file i made to my project
-
-<<<<<<< HEAD
-It comes before all other files.
-=======
-It comes before all other files.
-
-<<<<<<< HEAD
-change 2
->>>>>>> parent of 8a3ecee... primary file added change 3
-=======
-change 2
->>>>>>> parent of 8a3ecee... primary file added change 3
+this is the first file
